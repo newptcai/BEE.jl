@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/256705444.svg)](https://zenodo.org/badge/latestdoi/256705444)
 [![codecov](https://codecov.io/gh/newptcai/BEE.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/newptcai/BEE.jl)
 
-*This package has been renamed as named [`BeeEncoder.jl`](https://github.com/newptcai/BeeEncoder.jl).  The name was changed so it can be registered in Julia's package repository.*
+*This package has been renamed as [`BeeEncoder.jl`](https://github.com/newptcai/BeeEncoder.jl).  The name was changed so it can be registered in Julia's package repository.*
 
 ## The beauty of brute force 🤜️
 
